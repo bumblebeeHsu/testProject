@@ -1,3 +1,5 @@
 product price
 coffee product price
 150
+200
+60
